@@ -1,4 +1,6 @@
-const greeting = function(){console.log("'Hello ! 😁'")};
+const greeting = function() {
+    return console.log ("'Hello ! 😁'")
+};
 
 greeting();
 
